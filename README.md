@@ -91,6 +91,7 @@ I made use of [a face tracker code implemented by KwanHua Lee](https://github.co
 # 配信用機能
 
 > `python app/only_puppet.py`
+
 実行時に背景色`RGB`が聞かれるので`{R,G,B}`から選ぶ。
 
 出てきたウィンドウから憑依したい女の子(画像サイズ256×256必須)を選んだら完成。
